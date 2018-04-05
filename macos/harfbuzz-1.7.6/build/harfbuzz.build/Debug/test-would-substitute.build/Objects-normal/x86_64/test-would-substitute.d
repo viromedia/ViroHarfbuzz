@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/test-would-substitute.cc \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-private.hh \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-blob.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-common.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-buffer.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-unicode.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-font.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-face.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-deprecated.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-set.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-shape.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-shape-plan.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-version.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-font.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-layout.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-tag.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-math.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-shape.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ot-var.h \
+  /Users/radvani/Source/ViroHarfbuzz/macos/harfbuzz-1.7.6/src/hb-ft.h \
+  /Library/Frameworks/Mono.framework/Headers/ft2build.h \
+  /usr/local/include/freetype2/freetype/config/ftheader.h \
+  /usr/local/include/freetype2/freetype/freetype.h \
+  /usr/local/include/freetype2/freetype/config/ftconfig.h \
+  /usr/local/include/freetype2/freetype/config/ftoption.h \
+  /usr/local/include/freetype2/freetype/config/ftstdlib.h \
+  /usr/local/include/freetype2/freetype/fttypes.h \
+  /usr/local/include/freetype2/freetype/ftsystem.h \
+  /usr/local/include/freetype2/freetype/ftimage.h \
+  /usr/local/include/freetype2/freetype/fterrors.h \
+  /usr/local/include/freetype2/freetype/ftmoderr.h \
+  /usr/local/include/freetype2/freetype/fterrdef.h
